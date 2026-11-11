@@ -15,6 +15,19 @@ compra** no site do Mercado Livre, aplicando conceitos de IHC e testes de usabil
 | [`analisar_resultados.py`](analisar_resultados.py) | Calcula tempo médio, taxa de sucesso, erros e pontuação SUS, e compara com os critérios de sucesso. |
 | [`relatorio_resultados.md`](relatorio_resultados.md) | Relatório final com resultados, problemas encontrados e recomendações. |
 
+## Resumo dos resultados (dados simulados)
+
+> Os dados em `dados/` e no relatório são **fictícios**, usados como exemplo.
+
+| Métrica | Resultado | Meta |
+|---|---|---|
+| Taxa de sucesso | 80% | ≥ 90% ❌ |
+| Tempo médio | 182 s | ≤ 240 s ✅ |
+| SUS médio | 69,0 | ≥ 68 ✅ |
+
+Principal problema: a etapa de filtros e ordenação (T3) concentrou 65% dos erros.
+Detalhes em [`relatorio_resultados.md`](relatorio_resultados.md).
+
 ## Como aplicar
 
 1. Formar duplas: um colega é o **usuário final** e o outro é o **avaliador**. O professor é o **instrutor**.

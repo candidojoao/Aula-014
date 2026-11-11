@@ -1,1 +1,36 @@
 participante,tarefa,tempo_s,sucesso,erros,precisou_ajuda,observacoes
+P1,T1,6,S,0,N,
+P1,T2,14,S,0,N,
+P1,T3,52,S,1,N,Procurou o filtro Full no topo da página antes de achar na lateral
+P1,T4,18,S,0,N,
+P1,T5,15,S,0,N,
+P1,T6,28,S,0,N,
+P1,T7,5,S,0,N,
+P2,T1,8,S,0,N,
+P2,T2,19,S,1,N,Clicou em uma sugestão de autocompletar diferente
+P2,T3,95,S,3,N,Não encontrou ordenação por avaliação; abriu o menu de ordenação duas vezes
+P2,T4,25,S,0,N,
+P2,T5,22,S,1,N,Clicou em Comprar agora em vez de Adicionar ao carrinho
+P2,T6,34,S,0,N,
+P2,T7,9,S,1,N,Usou o botão voltar do navegador várias vezes
+P3,T1,5,S,0,N,
+P3,T2,11,S,0,N,
+P3,T3,40,S,1,N,
+P3,T4,20,S,0,N,Comparou três produtos abrindo em abas
+P3,T5,12,S,0,N,
+P3,T6,25,S,0,N,
+P3,T7,4,S,0,N,Clicou no logotipo
+P4,T1,9,S,0,N,
+P4,T2,22,S,0,N,
+P4,T3,140,N,4,S,Pediu ajuda para encontrar o filtro Full; desistiu da ordenação por avaliação
+P4,T4,31,S,1,N,Abriu um anúncio patrocinado por engano
+P4,T5,26,S,0,N,
+P4,T6,48,S,1,N,Ficou em dúvida se o pagamento seria cobrado
+P4,T7,12,S,1,N,
+P5,T1,7,S,0,N,
+P5,T2,15,S,0,N,
+P5,T3,63,S,2,N,Aplicou o filtro Full mas não percebeu que a ordenação voltou ao padrão
+P5,T4,22,S,0,N,
+P5,T5,14,S,0,N,
+P5,T6,30,S,0,N,
+P5,T7,6,S,0,N,
